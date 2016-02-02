@@ -2,6 +2,7 @@ name: Rob Test
 favicon: null
 layout_spectrum: 0.3913296367973089
 typography_spectrum: 0.8551843736786395
+title: "Rob's Website"
 cta:
   domain: null
   bucket: null
