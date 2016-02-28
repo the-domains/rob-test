@@ -4,14 +4,14 @@
         <description><![CDATA[Rob's Website]]></description>
         <link>http://robehamilton.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 05:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 06:27:37 GMT</lastBuildDate>
         <atom:link href="http://robehamilton.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><p>This is another test</p></article>]]></description>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>About Me</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a2b5a4e-3ee6-407e-bacb-e91d75d07559.jpg"></article>]]></description>
             <link>http://robehamilton.com/test/index.html</link>
             <guid isPermaLink="false">fbb3ac21-de6c-4feb-8d9c-6d424743c7ed</guid>
-            <pubDate>Sun, 28 Feb 2016 05:59:35 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 06:25:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
