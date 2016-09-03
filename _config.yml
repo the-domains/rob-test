@@ -1,20 +1,4 @@
-name: Rob Test
-favicon: null
-layout_spectrum: 0.3913296367973089
 typography_spectrum: 0.8551843736786395
-title: "Rob's Website"
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74427303-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -26,4 +10,20 @@ color:
   lightness: 0.9175645674113184
   saturation: 0.7355238606687635
   rhythmicContrast: 0.4019982600584626
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3913296367973089
+analytics:
+  google: UA-74427303-1
+  facebook: null
+  twitter: null
+name: Rob Test
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
